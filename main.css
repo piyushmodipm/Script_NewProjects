@@ -1,0 +1,135 @@
+body{
+    font-family:  "Montserrat", sans-serif !important;
+}
+a{
+    text-decoration: none;
+    color: rgb(51, 49, 49);
+}
+.mainHeader{
+    text-align: center;
+    font-size: 12px;
+    background-color: #EEEEEE;
+
+    color: rgb(78, 74, 74);
+    padding: 15px 0px 0px 0px;
+}
+.sticky{
+    text-align: center;
+    font-size: 12px;
+    background-color: #fff;
+    padding:20px 0px 0px 0px;
+    position:sticky;
+    top:0px;
+}
+.nav-item{
+    text-transform:uppercase;
+}
+.redLine{
+    background-color: red;
+    color: #fff;
+    font-size: 18px;
+    text-align: center;
+    padding: 10px;
+}
+.card{
+    margin: 40px 20px;
+}
+.card-group{
+    margin: 0px 100px;
+}
+.card:hover{
+    filter: brightness(10%);
+    transition: filter 1s ease-in-out;
+}
+.video{
+  background: url("https://www.marcpridmore.com/wp-content/uploads/2023/02/Screenshot-2023-02-28-at-1.16.59-PM-1.png") 50% 50%;
+  background-size: auto;
+  background-size: cover;
+overflow: hidden;
+display: block;
+height: 360px;
+}
+.projects{
+  background-color: #EEEEEE;
+  padding: 10px;
+}
+.cover
+  {
+background-image: url("https://www.marcpridmore.com/wp-content/uploads/2023/02/Screenshot-2023-02-28-at-5.44.31-PM.png");
+background-position: center center;
+background-size: cover;
+height: 100%;
+}
+.whiteLine{
+  background-color: white;
+  z-index: -  1;
+  color: black;
+   font-family: "Cinzel", Sans-serif;
+   font-size: 45px;
+font-weight: 400;
+line-height: 1em;
+text-align: center;
+padding: 30px 0px 0px 0px;
+}
+video{
+  z-index: -1px;
+  width:100%;
+  margin: -200px 0px;
+}
+.buttonGroup{
+    background-color: white;
+    padding: 20px;
+    text-align: center;
+    font-size: 17px;
+}
+.blackButton{
+    background-color: black;
+    color: white;
+    margin: 10px;
+    border-radius: 3px;
+    padding: 10px ;
+    border: 0ch;
+}
+.whiteButton{
+    background-color: white;
+    border: 1px solid black;
+    border-radius: 3px;
+    padding: 10px 20px ;
+    margin: 10px;
+}
+.designServices{
+    background-color: #EEEEEE;
+    background-image: url("https://www.marcpridmore.com/wp-content/uploads/2020/11/Interior_Design_Materials.jpg");
+    background-position: center center;
+    background-size: cover;
+    height: 60%;
+    padding: 40px;
+    margin: 20px;
+    text-align: center;
+  }
+.text1{
+    margin:30px;
+    color: #070000;font-family: Montserrat, Sans-serif;font-size: 18px;font-weight: 600;line-height: 22px;letter-spacing: 0.64px;
+}
+.text2{
+    margin: 30px;
+    color: #000000;
+font-family: "Playfair Display", Sans-serif;
+font-size: 42px;
+font-weight: 400;
+line-height: 53px;
+letter-spacing: 1.5px;
+}
+footer{
+    background-color: #000000d3;
+    color: rgb(255, 255, 255);
+    padding: 30px;
+}
+a{
+    color: #EEEEEE;
+}
+.text3{
+    margin: 30px;
+    color: #070000;font-family: Montserrat, Sans-serif;font-size: 18px;font-weight: 600;line-height: 22px;letter-spacing: 0.64px;
+
+}
